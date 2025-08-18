@@ -1,4 +1,4 @@
-# 📚 AskMyDoc (Question Answering Bot using LangChain, IBM watsonx.ai & Gradio)
+# 📚 AskMyDoc AI Bot (Question Answering Bot using LangChain, IBM watsonx.ai & Gradio)
 
 ## 🧠 Project Overview
 
