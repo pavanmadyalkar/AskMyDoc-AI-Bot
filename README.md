@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-This project demonstrates a **Question Answering (QA) bot** that intelligently responds to user queries based on the content of uploaded PDF documents. It uses **LangChain**, **IBM watsonx.ai**, and **Gradio** to build an interactive assistant capable of parsing and understanding complex documents like legal papers, technical manuals, and research articles.
+This project demonstrates a **Question Answering (QA) bot** that intelligently responds to user queries based on the content of uploaded documents. It uses **LangChain**, **IBM watsonx.ai**, and **Gradio** to build an interactive assistant capable of parsing and understanding complex documents like legal papers, technical manuals, and research articles.
 
 ### ✅ Key Features
 
