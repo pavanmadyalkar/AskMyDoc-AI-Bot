@@ -1,3 +1,10 @@
+
+#gradio
+#transformers
+#sentence-transformers
+#langchain
+#faiss-cpu
+
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer
 from langchain_community.vectorstores import FAISS
