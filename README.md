@@ -30,8 +30,6 @@ This project demonstrates a **Question Answering (QA) bot** that intelligently r
 ---
 
 ## 🖼️ Example Output
-
-![Bot Output]
 <img width="1257" height="632" alt="QA_bot" src="https://github.com/user-attachments/assets/93945c82-d644-4a00-844f-5fc79572dfb1" />
 
 ---
